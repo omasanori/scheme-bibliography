@@ -4,7 +4,6 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. \"(Y Y) Works! A Lecture on the Why of Y\". Sept 1991.
--   Matthias Felleisen and Robert Hieb. \"The Revised Report on the Syntactic Theories of Sequential Control and State\". Rice University. June 1989.
 -   Eric T. Freeman and Daniel P. Friedman. \"Characterizing the Paralation Model using Dynamic Assignment\". Computer Science Department, Indiana University. TR-348. March 1992.
 -   Shin-Der Lee and Daniel P. Friedman. \"First-Class Extents\". Computer Science Department, Indiana University. TR-350. March 1992.
 -   Shin-Der Lee and Daniel P. Friedman. \"Quasi-Static Scoping: Sharing Variable Bindings Across Multiple Lexical Scopes\". Computer Science Department, Indiana University. October 1992.
