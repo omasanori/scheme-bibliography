@@ -3,9 +3,6 @@
 ## Scheme, Language Features, and Semantics
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
--   Ian A. Mason. &ldquo;The Semantics of Destructive Lisp&rdquo;. PhD. Thesis. Stanford University. 1986.
--   Carolyn Talcott. \"The essence of Rum: A theory of the intensional and extensional aspects of Lisp-type computation\". PhD. Thesis. Stanford University. August 1985.
--   Carolyn Talcott. \"Programming and Proving with Function and Control Abstractions\". Stanford University. CS-TR-89-1288. October 1989.
 -   Matthias Felleisen. \"(Y Y) Works! A Lecture on the Why of Y\". Sept 1991.
 -   Matthias Felleisen and Robert Hieb. \"The Revised Report on the Syntactic Theories of Sequential Control and State\". Rice University. June 1989.
 -   Eric T. Freeman and Daniel P. Friedman. \"Characterizing the Paralation Model using Dynamic Assignment\". Computer Science Department, Indiana University. TR-348. March 1992.
