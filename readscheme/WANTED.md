@@ -4,74 +4,73 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   Robert Hieb, R. Kent Dybvig and Claude W. Anderson III. \"Subcontinuations\". *Lisp and Symbolic Computation*. 7, 1. January 1994.
--   R. Kent Dybvig and Robert Hieb. \"A New Approach to Procedures with Variable Arity\". *Lisp and Symbolic Computation*. 3, 3. September 1990.
--   R. Kent Dybvig. \"Chez Scheme User\'s Guide\". 1998.
--   Alan Bawden. \"Quasiquotation in Lisp\". 1999.
--   Alan Bawden. \"Quasiquotation in Lisp\". *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
--   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. \"The T manual\". Yale University Computer Science Department. 1984.
--   Stephen Slade. \"The T Programming Language: A Dialect of LISP\". 1987.
--   Olin Shivers. \"History of T\". 2001.
--   Christian Queinnec and Pierre Weis. \"Programmation applicative, état des lieux et perspectives\". *Technique et science informatiques*. 15(7). 1996.
--   Christian Queinnec. \"Value transforming style\". *WSA \'92\--Workshop on Static Analysis*. September 1992.
--   Christian Queinnec. \"Value transforming style\". Laboratoire d\'Informatique de l\'École Polytechnique. Research Report LIX RR 92/07. May 1992.
--   Suresh Jagannathan. \"Coercion as a Metaphor for Computation\". *IEEE International Conference on Computer Languages*. August 1990.
--   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". University of Southampton. Technical Report M96/4. 1996.
--   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". *International Joint Conference on Theory and Practice of Software Development (TAPSOFT/FASE\'97)*. volume 1214 of Lecture Notes in Computer Science. April 1997.
--   Luc Moreau, Daniel Ribbens and Pascal Gribomont. \"Advanced Programming Techniques Using Scheme\". *Journées Francophones des Languages Applicatifs, Collection Didactique*. February 1998.
--   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". *Higher-Order and Symbolic Computation*. 11(3):233-279. December 1998.
--   Gerald Jay Sussman. \"LISP, Programming and Implementation\". *Functional Programming and its Applications*. 1982.
--   Carol Fessenden, William D. Clinger, Daniel P. Friedman and Christopher T. Haynes. \"Scheme 311 version 4 Reference Manual\". Indiana University. Computer Science Technical Report 137. February 1983.
--   Guy Lewis Steele, Jr. and Gerald Jay Sussman. \"The Revised Report on Scheme, a Dialect of Lisp\". Massachusetts Institute of Technology. MIT AI Memo 452. January 1978.
--   Uwe F. Pleban. \"The Standard Semantics of a Subset of SCHEME, a Dialect of LISP\". University of Kansas. Computer Science Technical Report TR-79-3. July 1979.
--   Steven S. Muchnick and Uwe F. Pleban. \"A Semantic Comparison of Lisp and Scheme\". *Conference Record of the 1980 Lisp Conference*. 1980.
--   Uwe F. Pleban. \"A Denotational Approach to Flow Analysis and Optimization of SCHEME, A Dialect of LISP\". PhD. Thesis. Ph.D. Dissertation. 1980.
--   Mitchell Wand. \"SCHEME Version 3.1 Reference Manual\". Indiana University. Computer Science Technical Report 93. June 1980.
--   \"MIT Scheme Manual\". Massachusetts Institute of Technology. March 2002.
--   \"MacScheme Reference Manual\". Semantic Microsystems. 1985.
--   William D. Clinger, Daniel P. Friedman and Mitchell Wand. \"A Scheme for a Higher-Level Semantic Algebra\". *Algebraic Methods in Semantics*. 1985.
--   Matthias Felleisen and Daniel P. Friedman. \"Control operators, the SECD-machine, and the lambda-calculus\". *3rd Working Conference on the Formal Description of Programming Concepts*. August 1986.
--   Kevin J. Lang and Barak A. Pearlmutter. \"Oaklisp: an Object-Oriented Scheme with First Class Types\". *ACM Conference on Object-Oriented Systems, Programming, Languages and Applications*. September 1986.
--   William D. Clinger. \"The Scheme of things: Streams versus Generators\". Tektronix, Inc.. Technical Report. 1987.
--   Matthias Felleisen. \"Reflections on Landin\'s J-Operator: A Partly Historical Note\". *Journal of Computer Languages*. 12. 3/4. 1987.
--   Matthias Felleisen and Daniel P. Friedman. \"A Reduction Semantics for Imperative Higher-Order Languages\". *Parallel Architectures and Languages Europe*. 259. 1987.
--   Matthias Felleisen, Daniel P. Friedman, Eugene E. Kohlbecker and Bruce F. Duba. \"A Syntactic Theory of Sequential Control\". *Theoretical Computer Science*. 52. 1987.
--   Bruce F. Duba, Matthias Felleisen and Daniel P. Friedman. \"Dynamic Identifiers can be Neat\". Indiana University. Computer Science Technical Report No. 220. April 1987.
--   Matthias Felleisen and Daniel P. Friedman. \"A Calculus for Assignments in Higher-Order Languages\". *Conference Record of the 14th Annual ACM Symposium on Principles of Programming Languages*. January 1987.
--   Matthias Felleisen and Daniel P. Friedman. \"A Syntactic Theory of Sequential State\". Indiana University. Computer Science Dept. Technical Report 230. October 1987.
--   William D. Clinger. \"Semantics of Scheme\". *BYTE*. February 1988.
--   R. Kent Dybvig and Robert Hieb. \"A Variable-Arity Procedural Interface\". *Proceedings of the 1988 ACM Symposium on LISP and Functional Programming*. July 1988.
--   Kevin J. Lang and Barak A. Pearlmutter. \"Oaklisp: an Object-Oriented Dialect of Scheme\". *Lisp and Symbolic Computation: An International Journal*. 1. 1. May 1988.
--   Alain Deutsch, Renaud Dumeur, Charles Consel and Jean-Daniel Fekete. \"CSKIM: An Extended Dialect of Scheme\". *BIGRE Bulletin*. 65. July 1989.
--   Guy Lapalme and Marc Feeley. \"Micro-Scheme\". *BIGRE Bulletin*. 65. July 1989.
--   John Franco and Daniel P. Friedman. \"Towards A Facility for Lexically Scoped, Dynamic Mutual Recursion in Scheme\". *Journal of Computer Languages*. 15. 1. 1990.
--   John Franco, Daniel P. Friedman and Steven D. Johnson. \"Multi-way Streams in Scheme\". *Journal of Computer Languages*. 15. 2. 1990.
--   Dorai Sitaram and Matthias Felleisen. \"Control Delimiters and Their Hierarchies\". *Lisp and Symbolic Computation: An International Journal*. 3. 1. January 1990.
--   James S. Miller and Guillermo J. Rozas. \"Free Variables and First-Class Environments\". *Lisp and Symbolic Computation: An International Journal*. 3. 4. 1991.
--   Robert Bruce Findler and Matthias Felleisen. \"Contracts for Higher-Order Functions\". *International Conference on Functional Programming (ICFP2002)*. October 2002.
--   Robert Bruce Findler and Matthias Felleisen. \"Contracts for Higher-Order Functions\". University of Chicago. October 2002.
--   Robert Bruce Findler. \"Behavioral Software Contracts\". PhD. Thesis. Rice University. May 2002.
--   Robert Bruce Findler, Matthias Blume and Matthias Felleisen. \"An Investigation of Contracts as Projections\". University of Chicago. TR-2004-02. April 2004.
--   Philip Wadler and Robert Bruce Findler. \"Well-typed programs can\'t be blamed\". *2007 Workshop on Scheme and Functional Programming*. September 2007.
--   Christophe Scholliers, Eric Tanter and Wolfgang De Meuter. \"Computational Contracts\". *2011 Workshop on Scheme and Functional Programming*. October 2011.
--   Sebastian Egner, Richard A. Kelsey and Michael Sperber. \"Cleaning up the Tower: Numbers in Scheme\". *2004 Scheme Workshop*. September 2004.
--   John Clements and Matthias Felleisen. \"A Tail-Recursive Machine with Stack Inspection\". *Transactions on Programming Languages and Systems*. 2004.
--   Gregory H. Cooper and Shriram Krishnamurthi. \"Embedding Dynamic Dataflow in a Call-by-Value Language\". *European Symposium on Programming, 2006*. 2006.
--   Jeremy G. Siek and Walid Taha. \"Gradual Typing for Functional Languages\". *2006 Workshop on Scheme and Functional Programming*. September 2006.
-
--   David Herman and David Van Horn. \"A few principles of macro design\". *2008 Workshop on Scheme and Functional Programming*. September 2008.
--   Ryan Culpepper and Matthias Felleisen. \"A Stepper for Scheme Macros\". *2006 Workshop on Scheme and Functional Programming*. September 2006.
--   Ryan Culpepper and Matthias Felleisen. \" Taming Macros\". *Generative Programming and Component Engineering (GPCE 2004)*. October 2004.
--   Ryan Culpepper and Matthias Felleisen. \"Well-Shaped Macros\". *Scheme Workshop 2003*. November 2003.
--   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. \"Expansion-Passing Style: A General Macro Mechanism\". *LISP and Symbolic Computation*. 1(1). June 1988.
--   Matthew Flatt. \"Composable and Compilable Macros: You Want it When?\". *International Conference on Functional Programming (ICFP\'2002)*. 2002.
--   Oleg Kiselyov. \"How to write seemingly unhygienic and referentially opaque macros with syntax-rules\". *Workshop on Scheme and Functional Programming (2002)*. October 2002.
--   Oleg Kiselyov. \"Macros that Compose: Systematic Macro Programming\". *Generative Programming and Component Engineering (GPCE\'02)*. October 2002.
--   Donovan Kolbly. \"Extensible Language Implementation\". PhD. Thesis. University of Texas. September 2002.
--   Eugene E. Kohlbecker. \"Syntactic Extensions in the Programming Language Lisp\". PhD. Thesis. Indiana University. 1986.
--   Eugene E. Kohlbecker, Daniel P. Friedman, Matthias Felleisen and Bruce F. Duba. \"Hygienic macro expansion\". *Proceedings of the 1986 ACM Conference on LISP and Functional Programming*. 1986.
--   Eugene E. Kohlbecker and Mitchell Wand. \"Macro-by-example: Deriving syntactic transformations from their specifications\". *Fourteenth Annual ACM SIGACT-SIGPLAN Symposium on Principles of programming languages*. January 1987.
--   Ana Bove and Laura Arbilla. \"A confluent calculus of Macro expansion and evaluation\". *1992 ACM conference on LISP and functional programming*. 1992.
+-   Robert Hieb, R. Kent Dybvig and Claude W. Anderson III. &ldquo;Subcontinuations&rdquo;. *Lisp and Symbolic Computation*. 7, 1. January 1994.
+-   R. Kent Dybvig and Robert Hieb. &ldquo;A New Approach to Procedures with Variable Arity&rdquo;. *Lisp and Symbolic Computation*. 3, 3. September 1990.
+-   R. Kent Dybvig. &ldquo;Chez Scheme User's Guide&rdquo;. 1998.
+-   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. 1999.
+-   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
+-   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. &ldquo;The T manual&rdquo;. Yale University Computer Science Department. 1984.
+-   Stephen Slade. &ldquo;The T Programming Language: A Dialect of LISP&rdquo;. 1987.
+-   Olin Shivers. &ldquo;History of T&rdquo;. 2001.
+-   Christian Queinnec and Pierre Weis. &ldquo;Programmation applicative, état des lieux et perspectives&rdquo;. *Technique et science informatiques*. 15(7). 1996.
+-   Christian Queinnec. &ldquo;Value transforming style&rdquo;. *WSA '92--Workshop on Static Analysis*. September 1992.
+-   Christian Queinnec. &ldquo;Value transforming style&rdquo;. Laboratoire d'Informatique de l'École Polytechnique. Research Report LIX RR 92/07. May 1992.
+-   Suresh Jagannathan. &ldquo;Coercion as a Metaphor for Computation&rdquo;. *IEEE International Conference on Computer Languages*. August 1990.
+-   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. University of Southampton. Technical Report M96/4. 1996.
+-   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. *International Joint Conference on Theory and Practice of Software Development (TAPSOFT/FASE '97)*. volume 1214 of Lecture Notes in Computer Science. April 1997.
+-   Luc Moreau, Daniel Ribbens and Pascal Gribomont. &ldquo;Advanced Programming Techniques Using Scheme&rdquo;. *Journées Francophones des Languages Applicatifs, Collection Didactique*. February 1998.
+-   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. *Higher-Order and Symbolic Computation*. 11(3):233-279. December 1998.
+-   Gerald Jay Sussman. &ldquo;LISP, Programming and Implementation&rdquo;. *Functional Programming and its Applications*. 1982.
+-   Carol Fessenden, William D. Clinger, Daniel P. Friedman and Christopher T. Haynes. &ldquo;Scheme 311 version 4 Reference Manual&rdquo;. Indiana University. Computer Science Technical Report 137. February 1983.
+-   Guy Lewis Steele, Jr. and Gerald Jay Sussman. &ldquo;The Revised Report on Scheme, a Dialect of Lisp&rdquo;. Massachusetts Institute of Technology. MIT AI Memo 452. January 1978.
+-   Uwe F. Pleban. &ldquo;The Standard Semantics of a Subset of SCHEME, a Dialect of LISP&rdquo;. University of Kansas. Computer Science Technical Report TR-79-3. July 1979.
+-   Steven S. Muchnick and Uwe F. Pleban. &ldquo;A Semantic Comparison of Lisp and Scheme&rdquo;. *Conference Record of the 1980 Lisp Conference*. 1980.
+-   Uwe F. Pleban. &ldquo;A Denotational Approach to Flow Analysis and Optimization of SCHEME, A Dialect of LISP&rdquo;. PhD. Thesis. Ph.D. Dissertation. 1980.
+-   Mitchell Wand. &ldquo;SCHEME Version 3.1 Reference Manual&rdquo;. Indiana University. Computer Science Technical Report 93. June 1980.
+-   &ldquo;MIT Scheme Manual&rdquo;. Massachusetts Institute of Technology. March 2002.
+-   &ldquo;MacScheme Reference Manual&rdquo;. Semantic Microsystems. 1985.
+-   William D. Clinger, Daniel P. Friedman and Mitchell Wand. &ldquo;A Scheme for a Higher-Level Semantic Algebra&rdquo;. *Algebraic Methods in Semantics*. 1985.
+-   Matthias Felleisen and Daniel P. Friedman. &ldquo;Control operators, the SECD-machine, and the lambda-calculus&rdquo;. *3rd Working Conference on the Formal Description of Programming Concepts*. August 1986.
+-   Kevin J. Lang and Barak A. Pearlmutter. &ldquo;Oaklisp: an Object-Oriented Scheme with First Class Types&rdquo;. *ACM Conference on Object-Oriented Systems, Programming, Languages and Applications*. September 1986.
+-   William D. Clinger. &ldquo;The Scheme of things: Streams versus Generators&rdquo;. Tektronix, Inc. Technical Report. 1987.
+-   Matthias Felleisen. &ldquo;Reflections on Landin's J-Operator: A Partly Historical Note&rdquo;. *Journal of Computer Languages*. 12. 3/4. 1987.
+-   Matthias Felleisen and Daniel P. Friedman. &ldquo;A Reduction Semantics for Imperative Higher-Order Languages&rdquo;. *Parallel Architectures and Languages Europe*. 259. 1987.
+-   Matthias Felleisen, Daniel P. Friedman, Eugene E. Kohlbecker and Bruce F. Duba. &ldquo;A Syntactic Theory of Sequential Control&rdquo;. *Theoretical Computer Science*. 52. 1987.
+-   Bruce F. Duba, Matthias Felleisen and Daniel P. Friedman. &ldquo;Dynamic Identifiers can be Neat&rdquo;. Indiana University. Computer Science Technical Report No. 220. April 1987.
+-   Matthias Felleisen and Daniel P. Friedman. &ldquo;A Calculus for Assignments in Higher-Order Languages&rdquo;. *Conference Record of the 14th Annual ACM Symposium on Principles of Programming Languages*. January 1987.
+-   Matthias Felleisen and Daniel P. Friedman. &ldquo;A Syntactic Theory of Sequential State&rdquo;. Indiana University. Computer Science Dept. Technical Report 230. October 1987.
+-   William D. Clinger. &ldquo;Semantics of Scheme&rdquo;. *BYTE*. February 1988.
+-   R. Kent Dybvig and Robert Hieb. &ldquo;A Variable-Arity Procedural Interface&rdquo;. *Proceedings of the 1988 ACM Symposium on LISP and Functional Programming*. July 1988.
+-   Kevin J. Lang and Barak A. Pearlmutter. &ldquo;Oaklisp: an Object-Oriented Dialect of Scheme&rdquo;. *Lisp and Symbolic Computation: An International Journal*. 1. 1. May 1988.
+-   Alain Deutsch, Renaud Dumeur, Charles Consel and Jean-Daniel Fekete. &ldquo;CSKIM: An Extended Dialect of Scheme&rdquo;. *BIGRE Bulletin*. 65. July 1989.
+-   Guy Lapalme and Marc Feeley. &ldquo;Micro-Scheme&rdquo;. *BIGRE Bulletin*. 65. July 1989.
+-   John Franco and Daniel P. Friedman. &ldquo;Towards A Facility for Lexically Scoped, Dynamic Mutual Recursion in Scheme&rdquo;. *Journal of Computer Languages*. 15. 1. 1990.
+-   John Franco, Daniel P. Friedman and Steven D. Johnson. &ldquo;Multi-way Streams in Scheme&rdquo;. *Journal of Computer Languages*. 15. 2. 1990.
+-   Dorai Sitaram and Matthias Felleisen. &ldquo;Control Delimiters and Their Hierarchies&rdquo;. *Lisp and Symbolic Computation: An International Journal*. 3. 1. January 1990.
+-   James S. Miller and Guillermo J. Rozas. &ldquo;Free Variables and First-Class Environments&rdquo;. *Lisp and Symbolic Computation: An International Journal*. 3. 4. 1991.
+-   Robert Bruce Findler and Matthias Felleisen. &ldquo;Contracts for Higher-Order Functions&rdquo;. *International Conference on Functional Programming (ICFP2002)*. October 2002.
+-   Robert Bruce Findler and Matthias Felleisen. &ldquo;Contracts for Higher-Order Functions&rdquo;. University of Chicago. October 2002.
+-   Robert Bruce Findler. &ldquo;Behavioral Software Contracts&rdquo;. PhD. Thesis. Rice University. May 2002.
+-   Robert Bruce Findler, Matthias Blume and Matthias Felleisen. &ldquo;An Investigation of Contracts as Projections&rdquo;. University of Chicago. TR-2004-02. April 2004.
+-   Philip Wadler and Robert Bruce Findler. &ldquo;Well-typed programs can't be blamed&rdquo;. *2007 Workshop on Scheme and Functional Programming*. September 2007.
+-   Christophe Scholliers, Eric Tanter and Wolfgang De Meuter. &ldquo;Computational Contracts&rdquo;. *2011 Workshop on Scheme and Functional Programming*. October 2011.
+-   Sebastian Egner, Richard A. Kelsey and Michael Sperber. &ldquo;Cleaning up the Tower: Numbers in Scheme&rdquo;. *2004 Scheme Workshop*. September 2004.
+-   John Clements and Matthias Felleisen. &ldquo;A Tail-Recursive Machine with Stack Inspection&rdquo;. *Transactions on Programming Languages and Systems*. 2004.
+-   Gregory H. Cooper and Shriram Krishnamurthi. &ldquo;Embedding Dynamic Dataflow in a Call-by-Value Language&rdquo;. *European Symposium on Programming, 2006*. 2006.
+-   Jeremy G. Siek and Walid Taha. &ldquo;Gradual Typing for Functional Languages&rdquo;. *2006 Workshop on Scheme and Functional Programming*. September 2006.
+-   David Herman and David Van Horn. &ldquo;A few principles of macro design&rdquo;. *2008 Workshop on Scheme and Functional Programming*. September 2008.
+-   Ryan Culpepper and Matthias Felleisen. &ldquo;A Stepper for Scheme Macros&rdquo;. *2006 Workshop on Scheme and Functional Programming*. September 2006.
+-   Ryan Culpepper and Matthias Felleisen. &ldquo;Taming Macros&rdquo;. *Generative Programming and Component Engineering (GPCE 2004)*. October 2004.
+-   Ryan Culpepper and Matthias Felleisen. &ldquo;Well-Shaped Macros&rdquo;. *Scheme Workshop 2003*. November 2003.
+-   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. &ldquo;Expansion-Passing Style: A General Macro Mechanism&rdquo;. *LISP and Symbolic Computation*. 1(1). June 1988.
+-   Matthew Flatt. &ldquo;Composable and Compilable Macros: You Want it When?&rdquo;. *International Conference on Functional Programming (ICFP2002)*. 2002.
+-   Oleg Kiselyov. &ldquo;How to write seemingly unhygienic and referentially opaque macros with syntax-rules&rdquo;. *Workshop on Scheme and Functional Programming (2002)*. October 2002.
+-   Oleg Kiselyov. &ldquo;Macros that Compose: Systematic Macro Programming&rdquo;. *Generative Programming and Component Engineering (GPCE '02)*. October 2002.
+-   Donovan Kolbly. &ldquo;Extensible Language Implementation&rdquo;. PhD. Thesis. University of Texas. September 2002.
+-   Eugene E. Kohlbecker. &ldquo;Syntactic Extensions in the Programming Language Lisp&rdquo;. PhD. Thesis. Indiana University. 1986.
+-   Eugene E. Kohlbecker, Daniel P. Friedman, Matthias Felleisen and Bruce F. Duba. &ldquo;Hygienic macro expansion&rdquo;. *Proceedings of the 1986 ACM Conference on LISP and Functional Programming*. 1986.
+-   Eugene E. Kohlbecker and Mitchell Wand. &ldquo;Macro-by-example: Deriving syntactic transformations from their specifications&rdquo;. *Fourteenth Annual ACM SIGACT-SIGPLAN Symposium on Principles of programming languages*. January 1987.
+-   Ana Bove and Laura Arbilla. &ldquo;A confluent calculus of Macro expansion and evaluation&rdquo;. *1992 ACM conference on LISP and functional programming*. 1992.
 -   Alan Bawden and Jonathan A. Rees. \"Syntactic Closures\". MIT AI Lab. AI Lab Memo AIM-1049. June 1988.
 -   Alan Bawden and Jonathan A. Rees. \"Syntactic closures\". *Proceedings of the 1988 ACM Conference on Lisp and Functional Programming*. July 1988.
 -   William D. Clinger. \"Macros in Scheme\". *Lisp Pointers*. IV(4). December 1991.
