@@ -3,10 +3,7 @@
 ## Scheme, Language Features, and Semantics
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
--   Matthias Felleisen. \"(Y Y) Works! A Lecture on the Why of Y\". Sept 1991.
--   Eric T. Freeman and Daniel P. Friedman. \"Characterizing the Paralation Model using Dynamic Assignment\". Computer Science Department, Indiana University. TR-348. March 1992.
--   Shin-Der Lee and Daniel P. Friedman. \"First-Class Extents\". Computer Science Department, Indiana University. TR-350. March 1992.
--   Shin-Der Lee and Daniel P. Friedman. \"Quasi-Static Scoping: Sharing Variable Bindings Across Multiple Lexical Scopes\". Computer Science Department, Indiana University. October 1992.
+-   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
 -   John D. Ramsdell. \"An Operational Semantics for Scheme\". *Lisp Pointers V(2)*. April-June 1992.
 -   John D. Ramsdell. \"Scheme: The Next Generation\". *Lisp Pointers, Vol. VII, No. 4*. October-December 1994.
 -   William D. Clinger. \"Proper tail recursion and space efficiency\". *Proceedings of the 1998 ACM Conference on Programming Language Design and Implementation*. June 1998.
