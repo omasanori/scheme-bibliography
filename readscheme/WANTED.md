@@ -4,7 +4,6 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   William D. Clinger. \"Proper tail recursion and space efficiency\". *Proceedings of the 1998 ACM Conference on Programming Language Design and Implementation*. June 1998.
 -   Jonathan A. Rees. \"User-defined data types\". *Lisp Pointers*. \'The Scheme of Things\' (column). 1993.
 -   Guillermo J. Rozas. \"Taming the Y Operator\". *Proceedings of the 1992 ACM Conference on Lisp and Functional Programming*. June 1992.
 -   Guy Lewis Steele, Jr. and Richard Gabriel. \"The Evolution of LISP\". *ACM SIGPLAN Notices, Vol 28(3), 231-270*. March 1993.
