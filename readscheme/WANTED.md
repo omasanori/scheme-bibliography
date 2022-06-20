@@ -4,28 +4,20 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   Guy Lewis Steele, Jr. and Richard Gabriel. \"The Evolution of LISP\". *ACM SIGPLAN Notices, Vol 28(3), 231-270*. March 1993.
--   Carl Bruggeman, Oscar Waddell and R. Kent Dybvig. \"Representing Control in the Presence of One-Shot Continuations\". *ACM SIGPLAN 1996 Conference on Programming Language Design and Implementation*. June 1996.
--   J. Michael Ashley and R. Kent Dybvig. \"An Efficient Implementation of Multiple Return Values in Scheme\". *1994 ACM Conference on LISP and Functional Programming*. June 1994.
 -   Robert Hieb, R. Kent Dybvig and Claude W. Anderson III. \"Subcontinuations\". *Lisp and Symbolic Computation*. 7, 1. January 1994.
 -   R. Kent Dybvig and Robert Hieb. \"A New Approach to Procedures with Variable Arity\". *Lisp and Symbolic Computation*. 3, 3. September 1990.
 -   R. Kent Dybvig. \"Chez Scheme User\'s Guide\". 1998.
 -   Alan Bawden. \"Quasiquotation in Lisp\". 1999.
 -   Alan Bawden. \"Quasiquotation in Lisp\". *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
--   Jonathan A. Rees and Norman I. Adams IV. \"T: A dialect of Lisp or, Lambda: The ultimate software tool\". *Conference Record of the 1982 ACM Symposium on Lisp and Functional Programming*. 1982.
 -   Jonathan A. Rees, Norman I. Adams IV and James R. Meehan. \"The T manual\". Yale University Computer Science Department. 1984.
 -   Stephen Slade. \"The T Programming Language: A Dialect of LISP\". 1987.
 -   Olin Shivers. \"History of T\". 2001.
 -   Christian Queinnec and Pierre Weis. \"Programmation applicative, état des lieux et perspectives\". *Technique et science informatiques*. 15(7). 1996.
--   Sophie Anglade, Jean-Jacques Lacrampe and Christian Queinnec. \"Semantics of combinations in scheme\". *Lisp Pointers*. 7(4). October-December 1995.
--   Christian Queinnec. \"A library of high-level control operators\". *Lisp Pointers*. 6(4). October 1993.
 -   Christian Queinnec. \"Value transforming style\". *WSA \'92\--Workshop on Static Analysis*. September 1992.
 -   Christian Queinnec. \"Value transforming style\". Laboratoire d\'Informatique de l\'École Polytechnique. Research Report LIX RR 92/07. May 1992.
 -   Suresh Jagannathan. \"Coercion as a Metaphor for Computation\". *IEEE International Conference on Computer Languages*. August 1990.
--   Suresh Jagannathan, David Gelernter and Tom London. \"Environments as First-Class Objects\". *ACM Conference on Principles of Programming Languages (POPL87)*. January 1987.
 -   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". University of Southampton. Technical Report M96/4. 1996.
--   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". *International Joint Conference on Theory and Practice of Software Development (TAPSOFT/FASE\'97)*. volume 1214 of Lecture Notes in
-    Computer Science. April 1997.
+-   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". *International Joint Conference on Theory and Practice of Software Development (TAPSOFT/FASE\'97)*. volume 1214 of Lecture Notes in Computer Science. April 1997.
 -   Luc Moreau, Daniel Ribbens and Pascal Gribomont. \"Advanced Programming Techniques Using Scheme\". *Journées Francophones des Languages Applicatifs, Collection Didactique*. February 1998.
 -   Luc Moreau. \"A Syntactic Theory of Dynamic Binding\". *Higher-Order and Symbolic Computation*. 11(3):233-279. December 1998.
 -   Gerald Jay Sussman. \"LISP, Programming and Implementation\". *Functional Programming and its Applications*. 1982.
