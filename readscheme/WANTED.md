@@ -74,35 +74,35 @@
 -   Eugene E. Kohlbecker, Daniel P. Friedman, Matthias Felleisen and Bruce F. Duba. &ldquo;Hygienic macro expansion&rdquo;. *Proceedings of the 1986 ACM Conference on LISP and Functional Programming*. 1986.
 -   Eugene E. Kohlbecker and Mitchell Wand. &ldquo;Macro-by-example: Deriving syntactic transformations from their specifications&rdquo;. *Fourteenth Annual ACM SIGACT-SIGPLAN Symposium on Principles of programming languages*. January 1987.
 -   Ana Bove and Laura Arbilla. &ldquo;A confluent calculus of Macro expansion and evaluation&rdquo;. *1992 ACM conference on LISP and functional programming*. 1992.
--   Alan Bawden and Jonathan A. Rees. \"Syntactic Closures\". MIT AI Lab. AI Lab Memo AIM-1049. June 1988.
--   Alan Bawden and Jonathan A. Rees. \"Syntactic closures\". *Proceedings of the 1988 ACM Conference on Lisp and Functional Programming*. July 1988.
--   William D. Clinger. \"Macros in Scheme\". *Lisp Pointers*. IV(4). December 1991.
--   William D. Clinger. \"Hygienic macros through explicit renaming\". *Lisp Pointers*. IV(4). December 1991.
--   William D. Clinger and Jonathan A. Rees. \"Macros that work\". *Conference Record of the Eighteenth Annual ACM Symposium on Principles of Programming Languages*. January 1991.
--   Jonathan A. Rees. \"Implementing lexically scoped macros\". *Lisp Pointers*. \'The Scheme of Things\' (column). 1993.
--   R. Kent Dybvig. \"Writing Hygenic Macros in Scheme with Syntax-Case\". Computer Science Department, Indiana University. TR-356. June 1992.
--   Robert Hieb, R. Kent Dybvig and Carl Bruggeman. \"Syntactic Abstraction in Scheme\". Computer Science Department, Indiana University. TR-355. June 1992.
--   Oscar Waddell and R. Kent Dybvig. \"Extending the Scope of Syntactic Abstraction\". *Conference Record of POPL\'99: The 26th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages*. January 1999.
--   Oscar Waddell. \"Extending the Scope of Syntactic Abstraction\". PhD. Thesis. Indiana University Computer Science Department. August 1999.
--   R. Kent Dybvig, Robert Hieb and Carl Bruggeman. \"Syntactic abstraction in Scheme\". *Lisp and Symbolic Computation*. 5, 4. December 1993.
--   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. \"Expansion-Passing Style: A General Macro Mechanism\". *Lisp and Symbolic Computation*. 1, 1. June 1988.
--   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. \"Expansion-Passing style: Beyond Conventional Macros\". *Conference Record of the 1986 ACM Conference on Lisp and Functional Programming*. 1986.
--   Erik Hilsdale and Daniel P. Friedman. \"Writing macros in continuation-passing style\". *Scheme and Functional Programming 2000*. September 2000.
--   Oleg Kiselyov. \"Re-writing abstractions, or Lambda: the ultimate pattern macro\". December 2001.
--   Stephen Paul Carl. \"Syntactic Exposures - A Lexically-Scoped Macro Facility for Extensible Compilers\". Masters Thesis. December 1996.
--   Shriram Krishnamurthi, Matthias Felleisen and Bruce F. Duba. \"From Macros to Reusable Generative Programming\". Rice University. TR 00-364. 2000.
--   Shriram Krishnamurthi. \"Linguistic Reuse\". PhD. Thesis. Rice University.
--   Jonathan A. Rees. \"Modular Macros\". Masters Thesis. MIT. 1989.
--   Matthias Blume. \"Refining Hygienic Macros for Modules and Separate Compilation\". ATR Human Information Processing Research Laboratories, Kyoto. ATR Technical Report TR-H-171. 1995.
--   Alan Bawden. \"First-class macros have types\". *POPL \'00: 27th ACM Symp. Princ. of Prog. Langs.*. 2000.
--   Christian Queinnec and Julian Padget. \"Modules, macros and Lisp\". *Eleventh International Conference of the Chilean Computer Science Society*. October 1991.
--   Christian Queinnec and Julian Padget. \"A proposal for a modular Lisp with macros and dynamic evaluation\". *Journées de Travail sur l\'Analyse Statique en Programmation Équationnelle, Fonctionnelle et Logique*. October 1991.
--   Christian Queinnec and Julian Padget. \"A deterministic model for modules and macros\". University of Bath. Bath Computing Group Technical Report 90-36. 1990.
--   Chris Hanson. \"A Syntactic Closures Macro Facility\". *Lisp Pointers*. IV. 4. October-December 1991.
--   Jean-Pierre Briot, Pierre Cointe and Emmanuel Saint-James. \"Reécriture et récursion dans une fermeture - Etude dans un Lisp à liaison superficielle - Application aux objets\". *Actes des Journées AFCET-Informatique Langages Orientés Objet, BIGRE+Globule*. 48. January 1986.
--   Shriram Krishnamurthi. \"Automata as Macros\". *Journal of Functional Programming*. 2005.
--   Ryan Culpepper, Sam Tobin-Hochstadt and Matthew Flatt. \"Advanced Macrology and the Implementation of Typed Scheme\". *2007 Workshop on Scheme and Functional Programming*. September 2007.
--   Keeping it Clean with syntax-parameterize. \"Eli Barzilay, Ryan Culpepper, Matthew Flatt\". *2011 Workshop on Scheme and Functional Programming*. October 2011.
+-   Alan Bawden and Jonathan A. Rees. &ldquo;Syntactic Closures&rdquo;. MIT AI Lab. AI Lab Memo AIM-1049. June 1988.
+-   Alan Bawden and Jonathan A. Rees. &ldquo;Syntactic closures&rdquo;. *Proceedings of the 1988 ACM Conference on Lisp and Functional Programming*. July 1988.
+-   William D. Clinger. &ldquo;Macros in Scheme&rdquo;. *Lisp Pointers*. IV(4). December 1991.
+-   William D. Clinger. &ldquo;Hygienic macros through explicit renaming&rdquo;. *Lisp Pointers*. IV(4). December 1991.
+-   William D. Clinger and Jonathan A. Rees. &ldquo;Macros that work&ldquo;. *Conference Record of the Eighteenth Annual ACM Symposium on Principles of Programming Languages*. January 1991.
+-   Jonathan A. Rees. &ldquo;Implementing lexically scoped macros&rdquo;. *Lisp Pointers*. &lsquo;The Scheme of Things&rsquo; (column). 1993.
+-   R. Kent Dybvig. &ldquo;Writing Hygenic Macros in Scheme with Syntax-Case&rdquo;. Computer Science Department, Indiana University. TR-356. June 1992.
+-   Robert Hieb, R. Kent Dybvig and Carl Bruggeman. &ldquo;Syntactic Abstraction in Scheme&rdquo;. Computer Science Department, Indiana University. TR-355. June 1992.
+-   Oscar Waddell and R. Kent Dybvig. &ldquo;Extending the Scope of Syntactic Abstraction&rdquo;. *Conference Record of POPL'99: The 26th ACM SIGPLAN-SIGACT Symposium on Principles of Programming Languages*. January 1999.
+-   Oscar Waddell. &ldquo;Extending the Scope of Syntactic Abstraction&rdquo;. PhD. Thesis. Indiana University Computer Science Department. August 1999.
+-   R. Kent Dybvig, Robert Hieb and Carl Bruggeman. &ldquo;Syntactic abstraction in Scheme&rdquo;. *Lisp and Symbolic Computation*. 5, 4. December 1993.
+-   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. &ldquo;Expansion-Passing Style: A General Macro Mechanism&rdquo;. *Lisp and Symbolic Computation*. 1, 1. June 1988.
+-   R. Kent Dybvig, Daniel P. Friedman and Christopher T. Haynes. &ldquo;Expansion-Passing style: Beyond Conventional Macros&rdquo;. *Conference Record of the 1986 ACM Conference on Lisp and Functional Programming*. 1986.
+-   Erik Hilsdale and Daniel P. Friedman. &ldquo;Writing macros in continuation-passing style&rdquo;. *Scheme and Functional Programming 2000*. September 2000.
+-   Oleg Kiselyov. &ldquo;Re-writing abstractions, or Lambda: the ultimate pattern macro&rdquo;. December 2001.
+-   Stephen Paul Carl. &ldquo;Syntactic Exposures - A Lexically-Scoped Macro Facility for Extensible Compilers&rdquo;. Masters Thesis. December 1996.
+-   Shriram Krishnamurthi, Matthias Felleisen and Bruce F. Duba. &ldquo;From Macros to Reusable Generative Programming&rdquo;. Rice University. TR 00-364. 2000.
+-   Shriram Krishnamurthi. &ldquo;Linguistic Reuse&rdquo;. PhD. Thesis. Rice University.
+-   Jonathan A. Rees. &ldquo;Modular Macros&rdquo;. Masters Thesis. MIT. 1989.
+-   Matthias Blume. &ldquo;Refining Hygienic Macros for Modules and Separate Compilation&rdquo;. ATR Human Information Processing Research Laboratories, Kyoto. ATR Technical Report TR-H-171. 1995.
+-   Alan Bawden. &ldquo;First-class macros have types&rdquo;. *POPL '00: 27th ACM Symp. Princ. of Prog. Langs.*. 2000.
+-   Christian Queinnec and Julian Padget. &ldquo;Modules, macros and Lisp&rdquo;. *Eleventh International Conference of the Chilean Computer Science Society*. October 1991.
+-   Christian Queinnec and Julian Padget. &ldquo;A proposal for a modular Lisp with macros and dynamic evaluation&rdquo;. *Journées de Travail sur l'Analyse Statique en Programmation Équationnelle, Fonctionnelle et Logique*. October 1991.
+-   Christian Queinnec and Julian Padget. &ldquo;A deterministic model for modules and macros&rdquo;. University of Bath. Bath Computing Group Technical Report 90-36. 1990.
+-   Chris Hanson. &ldquo;A Syntactic Closures Macro Facility&rdquo;. *Lisp Pointers*. IV. 4. October-December 1991.
+-   Jean-Pierre Briot, Pierre Cointe and Emmanuel Saint-James. &ldquo;Reécriture et récursion dans une fermeture - Etude dans un Lisp à liaison superficielle - Application aux objets&rdquo;. *Actes des Journées AFCET-Informatique Langages Orientés Objet, BIGRE+Globule*. 48. January 1986.
+-   Shriram Krishnamurthi. &ldquo;Automata as Macros&rdquo;. *Journal of Functional Programming*. 2005.
+-   Ryan Culpepper, Sam Tobin-Hochstadt and Matthew Flatt. &ldquo;Advanced Macrology and the Implementation of Typed Scheme&rdquo;. *2007 Workshop on Scheme and Functional Programming*. September 2007.
+-   Eli Barzilay, Ryan Culpepper, Matthew Flatt. &ldquo;Keeping it Clean with syntax-parameterize&rdquo;. *2011 Workshop on Scheme and Functional Programming*. October 2011.
 
 ## Object-Oriented Programming
 
