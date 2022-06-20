@@ -4,8 +4,6 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   Jonathan A. Rees. \"User-defined data types\". *Lisp Pointers*. \'The Scheme of Things\' (column). 1993.
--   Guillermo J. Rozas. \"Taming the Y Operator\". *Proceedings of the 1992 ACM Conference on Lisp and Functional Programming*. June 1992.
 -   Guy Lewis Steele, Jr. and Richard Gabriel. \"The Evolution of LISP\". *ACM SIGPLAN Notices, Vol 28(3), 231-270*. March 1993.
 -   Carl Bruggeman, Oscar Waddell and R. Kent Dybvig. \"Representing Control in the Presence of One-Shot Continuations\". *ACM SIGPLAN 1996 Conference on Programming Language Design and Implementation*. June 1996.
 -   J. Michael Ashley and R. Kent Dybvig. \"An Efficient Implementation of Multiple Return Values in Scheme\". *1994 ACM Conference on LISP and Functional Programming*. June 1994.
