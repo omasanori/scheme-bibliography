@@ -58,6 +58,9 @@
 -   John Clements and Matthias Felleisen. &ldquo;A Tail-Recursive Machine with Stack Inspection&rdquo;. *Transactions on Programming Languages and Systems*. 2004.
 -   Gregory H. Cooper and Shriram Krishnamurthi. &ldquo;Embedding Dynamic Dataflow in a Call-by-Value Language&rdquo;. *European Symposium on Programming, 2006*. 2006.
 -   Jeremy G. Siek and Walid Taha. &ldquo;Gradual Typing for Functional Languages&rdquo;. *2006 Workshop on Scheme and Functional Programming*. September 2006.
+
+## Macros
+
 -   David Herman and David Van Horn. &ldquo;A few principles of macro design&rdquo;. *2008 Workshop on Scheme and Functional Programming*. September 2008.
 -   Ryan Culpepper and Matthias Felleisen. &ldquo;A Stepper for Scheme Macros&rdquo;. *2006 Workshop on Scheme and Functional Programming*. September 2006.
 -   Ryan Culpepper and Matthias Felleisen. &ldquo;Taming Macros&rdquo;. *Generative Programming and Component Engineering (GPCE 2004)*. October 2004.
