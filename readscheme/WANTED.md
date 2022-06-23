@@ -4,8 +4,6 @@
 
 -   Ken Dickey. &ldquo;The Scheme Programming Language&rdquo;. *Computer Language*. June 1992.
 -   Matthias Felleisen. &ldquo;(Y Y) Works! A Lecture on the Why of Y&rdquo;. Sept 1991.
--   Robert Hieb, R. Kent Dybvig and Claude W. Anderson III. &ldquo;Subcontinuations&rdquo;. *Lisp and Symbolic Computation*. 7, 1. January 1994.
--   R. Kent Dybvig and Robert Hieb. &ldquo;A New Approach to Procedures with Variable Arity&rdquo;. *Lisp and Symbolic Computation*. 3, 3. September 1990.
 -   R. Kent Dybvig. &ldquo;Chez Scheme User's Guide&rdquo;. 1998.
 -   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. 1999.
 -   Alan Bawden. &ldquo;Quasiquotation in Lisp&rdquo;. *Partial Evaluation and Program Manipulation (PEPM99)*. 1999.
@@ -19,7 +17,6 @@
 -   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. University of Southampton. Technical Report M96/4. 1996.
 -   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. *International Joint Conference on Theory and Practice of Software Development (TAPSOFT/FASE '97)*. volume 1214 of Lecture Notes in Computer Science. April 1997.
 -   Luc Moreau, Daniel Ribbens and Pascal Gribomont. &ldquo;Advanced Programming Techniques Using Scheme&rdquo;. *Journées Francophones des Languages Applicatifs, Collection Didactique*. February 1998.
--   Luc Moreau. &ldquo;A Syntactic Theory of Dynamic Binding&rdquo;. *Higher-Order and Symbolic Computation*. 11(3):233-279. December 1998.
 -   Gerald Jay Sussman. &ldquo;LISP, Programming and Implementation&rdquo;. *Functional Programming and its Applications*. 1982.
 -   Carol Fessenden, William D. Clinger, Daniel P. Friedman and Christopher T. Haynes. &ldquo;Scheme 311 version 4 Reference Manual&rdquo;. Indiana University. Computer Science Technical Report 137. February 1983.
 -   Guy Lewis Steele, Jr. and Gerald Jay Sussman. &ldquo;The Revised Report on Scheme, a Dialect of Lisp&rdquo;. Massachusetts Institute of Technology. MIT AI Memo 452. January 1978.
